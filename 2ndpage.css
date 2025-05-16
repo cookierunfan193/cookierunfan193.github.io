@@ -1,0 +1,12 @@
+.page_1_Option{
+box-sizing: border-box;
+margin: auto;
+padding:300px;
+display: flex;
+justify-content: center;
+gap:2px;
+background-color: rgb(4, 37, 49);
+} 
+.profile{
+text-align:center;
+}
